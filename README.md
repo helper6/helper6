@@ -21,7 +21,7 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| [MicroC2](https://t.me/MicroStresser) | Просто BotNet - нечего сказать |
+| [MicroC2](https://t.me/MicroStresser) | Просто ЗомбиНет - нечего сказать |
 
 <h3 align="left">🛠 Skills:</h3>
 
