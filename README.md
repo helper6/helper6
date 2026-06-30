@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Мой никнейм SmoFeng или Helper6!</h1>
+<h1 align="center">Hello World👋 Мой никнейм SmoFeng / Helper6</h1>
 
 ###
 
@@ -17,11 +17,17 @@
 
 ###
 
+<h3 align="left">📦 Активные проекты:</h3>
+
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [MicroC2](https://t.me/MicroStresser) | Просто BotNet - нечего сказать |
+
 <h3 align="left">🛠 Skills:</h3>
 
 ###
 
-![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,figma,docker,cloudflare,php,html,css,lua,nginx,bash,aws,azure,firebase,godot,idea,js,react,linux,photoshop,mysql,cs,cpp,c)
+![My Skills](https://skillicons.dev/icons?i=java,python,nodejs,figma,docker,cloudflare,php,html,css,lua,nginx,bash,aws,azure,firebase,godot,idea,js,react,linux,photoshop,mysql,cs,cpp,golang)
 
 ###
 
@@ -31,6 +37,13 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=helper6&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<h1 align="center"></h1>
+<div align="center">
+  <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 </div>
 
 ###
